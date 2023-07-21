@@ -1,0 +1,6 @@
+# Project exclude paths
+/XingLuoCloud-main/base-service/target/
+/XingLuoCloud-main/commons/target/
+/XingLuoCloud-main/custom-service/target/
+/XingLuoCloud-main/erp-service/target/
+/XingLuoCloud-main/gateway/target/

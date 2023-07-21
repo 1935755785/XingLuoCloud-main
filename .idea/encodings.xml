@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/XingLuoCloud-main/base-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XingLuoCloud-main/base-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XingLuoCloud-main/commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XingLuoCloud-main/commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XingLuoCloud-main/custom-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XingLuoCloud-main/custom-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XingLuoCloud-main/erp-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XingLuoCloud-main/erp-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XingLuoCloud-main/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XingLuoCloud-main/gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XingLuoCloud-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XingLuoCloud-main/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
